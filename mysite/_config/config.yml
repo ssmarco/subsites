@@ -1,0 +1,19 @@
+---
+Name: mysite
+After:
+  - 'framework/*'
+  - 'cms/*'
+---
+# YAML configuration for SilverStripe
+# See http://doc.silverstripe.org/framework/en/topics/configuration
+# Caution: Indentation through two spaces, not tabs
+SSViewer:
+  theme: 'bootstrap'
+Debug:
+  friendly_error_httpcode: true
+
+Email:
+  admin_email: marco+admin@silverstripe.com
+
+i18n:
+  default_locale: en_NZ

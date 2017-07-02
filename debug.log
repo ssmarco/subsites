@@ -1,0 +1,48 @@
+
+
+== Sun, 02 Jul 2017 15:26:22 +1200 ==
+AuthorizeRequest (Manual),  ,  
+
+
+== Sun, 02 Jul 2017 15:26:22 +1200 ==
+AuthorizedResponse (Manual),  ,  
+
+
+== Sun, 02 Jul 2017 15:27:50 +1200 ==
+PurchaseRequest (Dummy),  ,  
+
+
+== Sun, 02 Jul 2017 15:27:50 +1200 ==
+PurchasedResponse (Dummy), Success,  
+
+
+== Sun, 02 Jul 2017 03:39:23 +0000 ==
+PurchaseRequest (Dummy),  ,  
+
+
+== Sun, 02 Jul 2017 03:39:23 +0000 ==
+PurchaseRedirectResponse (Dummy),  ,  
+
+
+== Sun, 02 Jul 2017 03:39:25 +0000 ==
+PurchaseRequest (Dummy),  ,  
+
+
+== Sun, 02 Jul 2017 03:39:25 +0000 ==
+PurchasedResponse (Dummy),  ,  
+
+
+== Sun, 02 Jul 2017 03:45:38 +0000 ==
+PurchaseRequest (Dummy),  ,  
+
+
+== Sun, 02 Jul 2017 03:45:38 +0000 ==
+PurchaseRedirectResponse (Dummy),  ,  
+
+
+== Sun, 02 Jul 2017 03:45:40 +0000 ==
+PurchaseRequest (Dummy),  ,  
+
+
+== Sun, 02 Jul 2017 03:45:40 +0000 ==
+PurchasedResponse (Dummy),  ,  

@@ -1,0 +1,43 @@
+p.message{
+	padding: 15px;
+	.bg-info;
+	&.bad{
+		.bg-danger;
+	}
+	&.warning{
+		.bg-warning;
+	}
+	&.good{
+		.bg-success;
+	}
+}
+
+form{
+	.Actions{
+		margin-top: 20px;
+	}
+	textarea{
+		resize: none;
+	}
+	&.form-inline{
+		.field, .Actions, .controls, fieldset{
+			display: inline-block;
+		}
+		.Actions{
+			margin-top: 0;
+		}
+	}
+}
+
+.form-group{
+	&.holder-validation{
+		.has-error;
+	}
+}
+
+.actionsrow{
+	padding: 15px 0;
+	.btn{
+		margin: 15px 0;
+	}
+}
